@@ -30,3 +30,11 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# SQLite data directory
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Binary
+url-shortener
